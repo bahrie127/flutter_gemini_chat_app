@@ -4,7 +4,7 @@ import 'package:google_generative_ai/google_generative_ai.dart';
 
 import 'widgets/chat_bubble.dart';
 
-const apiKey = 'AIzaSyAsM7WdFtuMOhvwuODMOUrtFBq2dXIFl1M';
+const apiKey = 'AIzaSyAsM7WtuMOhvwuODMOUrtFB';
 
 class ChatPage extends StatefulWidget {
   const ChatPage({super.key});
